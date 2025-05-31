@@ -90,5 +90,5 @@ Manual grading of student-written code is time-consuming and often inconsistent.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/java-code-assessment.git
-   cd java-code-assessment
+   git clone https://github.com/your-username/java-code-assessment.git](https://github.com/pranav11024/Automated-Assessment-of-Java-Code-Using-CodeT5-Early-Fusion-and-CatBoost-Regressor.git
+  
