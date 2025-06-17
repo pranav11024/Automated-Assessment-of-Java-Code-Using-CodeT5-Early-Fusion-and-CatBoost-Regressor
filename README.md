@@ -86,9 +86,4 @@ Manual grading of student-written code is time-consuming and often inconsistent.
 | Information Gain    | Concatenation    | 0.52      | 1.69        | 36.86       |
 | Information Gain    | Addition         | 0.51      | 1.71        | 38.23       |
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/java-code-assessment.git](https://github.com/pranav11024/Automated-Assessment-of-Java-Code-Using-CodeT5-Early-Fusion-and-CatBoost-Regressor.git
   
